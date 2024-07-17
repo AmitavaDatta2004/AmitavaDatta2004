@@ -5,7 +5,7 @@
 - 📫 How to reach me ... --->
 
 - # **Amitava Datta** 🌟
-*B.Tech 2nd Year Student at Techno Main Salt Lake*
+*B.Tech 2nd Year Student of CSE-AIML at Techno Main Salt Lake*
 
 ---
 
@@ -37,7 +37,7 @@ Hey there! I'm **Amitava Datta**, a driven and enthusiastic **B.Tech 2nd Year st
 
 ## 📚 **Education**
 
-### **B.Tech in Computer Science**
+### **B.Tech in Computer Science-Artificial Intelligence and Machine Learning**
 *Techno Main Salt Lake* | *2023 - Present*
 
 ## 🎨 **Hobbies & Interests**
@@ -63,15 +63,19 @@ Feel free to reach out to me at **dattaamitava2004@gmail.com** for collaboration
 
 ---
 
-*© 2024 Amitava Datta. All rights reserved.*
 
----
 
 # Follow Me
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/amitava_2004/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100072284777063)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Amitava2004)
+
+---
+
+*© 2024 Amitava Datta. All rights reserved.*
+
+---
 
 <!---
 AmitavaDatta2004/AmitavaDatta2004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
