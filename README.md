@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... --->
 
-- # **Amitava Datta** 🌟
+# **Amitava Datta** 🌟
 *B.Tech 2nd Year Student of CSE-AIML at Techno Main Salt Lake*
 
 ---
@@ -49,9 +49,14 @@ Hey there! I'm **Amitava Datta**, a driven and enthusiastic **B.Tech 2nd Year st
 
 ---
 
+##  **Achievements and Badges**
+
+### `HACKTOBERFEST 2024`
+[![An image of @amitavadatta2004's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/amitavadatta2004)](https://holopin.io/@amitavadatta2004)
+---
+
 ## 🌐 **Online Presence**
 
-- **[GitHub](https://github.com/AmitavaDatta2004)** | Explore my projects and contributions.
 - **[LinkedIn](https://www.linkedin.com/in/amitava-datta-301920292/)** | Connect with me professionally.
 - **[Twitter](https://x.com/Amitava2004)** | Follow my thoughts and updates on tech.
 
