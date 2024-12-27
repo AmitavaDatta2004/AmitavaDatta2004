@@ -8,6 +8,7 @@
 *B.Tech 2nd Year Student of CSE-AIML at Techno Main Salt Lake*
 
 ---
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AmitavaDatta2004&label=Profile%20views&color=0e75b6&style=flat" alt="AmitavaDatta2004" /> </p>
 
 ## 👋 **Introduction**
 
