@@ -9,6 +9,7 @@
 
 ---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AmitavaDatta2004&label=Profile%20views&color=0e75b6&style=flat" alt="AmitavaDatta2004" /> </p>
+<img src="https://widgetbite.com/stats/AmitavaDatta2004" alt="watching_count" />
 
 ## 👋 **Introduction**
 
@@ -50,6 +51,13 @@ Hey there! I'm **Amitava Datta**, a driven and enthusiastic **B.Tech 2nd Year st
 
 ---
 
+##  **Projects**
+| Project Name                                                       | Description                                       |
+| ------------------------------------------------------------------ | ------------------------------------------------- |
+| [Snippet_Sphere](https://snippetsphere-five.vercel.app/)                                 | A beautiful collection of code snippets and programs|
+| [Code_X_Change](https://code-x-change.vercel.app/)                              | Transform Your Code Between Languages          |
+
+---
 ##  **Achievements and Badges**
 
 ### `HACKTOBERFEST 2024`
