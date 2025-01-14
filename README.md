@@ -42,6 +42,11 @@ Hey there! I'm **Amitava Datta**, a driven and enthusiastic **B.Tech 2nd Year st
 ### **B.Tech in Computer Science-Artificial Intelligence and Machine Learning**
 *Techno Main Salt Lake* | *2023 - Present*
 
+## 📊 GitHub Stats:
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AmitavaDatta2004&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+
 ## 🎨 **Hobbies & Interests**
 
 - **Reading Tech Blogs** 📖
