@@ -44,6 +44,7 @@ Hey there! I'm **Amitava Datta**, a driven and enthusiastic **B.Tech 2nd Year st
 - **Artificial Intelligence** 🤖 -->
 
 <div style="display: flex; flex-wrap: wrap; gap: 16px; align-items: center; justify-content: center; padding: 20px; border-radius: 10px; background: linear-gradient(135deg, #1f1f1f, #4b0082, #8a2be2, #da70d6);">
+  <!-- Existing icons -->
   <img src="https://img.shields.io/badge/Next.js-242424?logo=nextdotjs&logoColor=00DC82&style=for-the-badge" height="40" alt="nextjs logo" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square" height="40" alt="typescript logo" />
   <img src="https://img.shields.io/badge/JavaScript-F7E018?logo=javascript&logoColor=black&style=flat-square" height="40" alt="javascript logo" />
@@ -57,27 +58,35 @@ Hey there! I'm **Amitava Datta**, a driven and enthusiastic **B.Tech 2nd Year st
   <img src="https://img.shields.io/badge/Deno-000000?logo=deno&logoColor=white&style=flat-square" height="40" alt="denojs logo" />
   <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=plastic" height="40" alt="django logo" />
   <img src="https://img.shields.io/badge/ESLint-4B32C3?logo=eslint&logoColor=white&style=for-the-badge" height="40" alt="eslint logo" />
-  <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=plastic" height="40" alt="express logo" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge" height="40" alt="firebase logo" />
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=black&style=flat-square" height="40" alt="vuejs logo" />
-  <img src="https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white&style=for-the-badge" height="40" alt="rust logo" />
-  <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=plastic" height="40" alt="flask logo" />
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat-square" height="40" alt="github logo" />
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=plastic" height="40" alt="git logo" />
-  <img src="https://img.shields.io/badge/Google Cloud-4285F4?logo=googlecloud&logoColor=white&style=for-the-badge" height="40" alt="google cloud logo" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=plastic" height="40" alt="html5 logo" />
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square" height="40" alt="linkedin logo" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" height="40" alt="linux logo" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=plastic" height="40" alt="mongodb logo" />
   <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=plastic" height="40" alt="nodejs logo" />
-  <img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white&style=flat-square" height="40" alt="npm logo" />
-  <img src="https://img.shields.io/badge/Nuxt.js-00DC82?logo=nuxtdotjs&logoColor=black&style=for-the-badge" height="40" alt="nuxtjs logo" />
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=plastic" height="40" alt="python logo" />
+  <img src="https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white&style=for-the-badge" height="40" alt="rust logo" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" height="40" alt="linux logo" />
   <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwindcss&logoColor=black&style=for-the-badge" height="40" alt="tailwindcss logo" />
-  <img src="https://img.shields.io/badge/Three.js-000000?logo=threedotjs&logoColor=white&style=plastic" height="40" alt="threejs logo" />
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge" height="40" alt="ubuntu logo" />
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=flat-square" height="40" alt="vscode logo" />
-  <img src="https://img.shields.io/badge/Yarn-2C8EBB?logo=yarn&logoColor=white&style=plastic" height="40" alt="yarn logo" />
+  
+  <!-- 20 New icons -->
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white&style=plastic" height="40" alt="postgresql logo" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="40" alt="mysql logo" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white&style=flat-square" height="40" alt="redis logo" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white&style=plastic" height="40" alt="graphql logo" />
+  <img src="https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white&style=for-the-badge" height="40" alt="sass logo" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white&style=plastic" height="40" alt="redux logo" />
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=white&style=for-the-badge" height="40" alt="gitlab logo" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=plastic" height="40" alt="docker logo" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge" height="40" alt="kubernetes logo" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=flat-square" height="40" alt="flutter logo" />
+  <img src="https://img.shields.io/badge/Android Studio-3DDC84?logo=androidstudio&logoColor=white&style=plastic" height="40" alt="android studio logo" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" height="40" alt="figma logo" />
+  <img src="https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=white&style=plastic" height="40" alt="heroku logo" />
+  <img src="https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=white&style=flat-square" height="40" alt="blender logo" />
+  <img src="https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white&style=for-the-badge" height="40" alt="unity logo" />
+  <img src="https://img.shields.io/badge/Adobe XD-FF61F6?logo=adobexd&logoColor=white&style=plastic" height="40" alt="adobe xd logo" />
+  <img src="https://img.shields.io/badge/Apache-D22128?logo=apache&logoColor=white&style=for-the-badge" height="40" alt="apache logo" />
+  <img src="https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white&style=plastic" height="40" alt="nginx logo" />
+  <img src="https://img.shields.io/badge/Raspberry Pi-A22846?logo=raspberrypi&logoColor=white&style=for-the-badge" height="40" alt="raspberry pi logo" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white&style=plastic" height="40" alt="jira logo" />
 </div>
 
 <!-- ### **Other Interests**
