@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... --->
 
-<!-- <img src="https://raw.githubusercontent.com/AmitavaDatta2004/AmitavaDatta2004/output/snake.svg" alt="Snake animation" /> -->
+<img src="https://raw.githubusercontent.com/AmitavaDatta2004/AmitavaDatta2004/output/snake.svg" alt="Snake animation" />
 
 
 # **Amitava Datta** 🌟
