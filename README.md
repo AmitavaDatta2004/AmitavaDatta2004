@@ -17,6 +17,13 @@ Hey there! I'm **Amitava Datta**, a driven and enthusiastic **B.Tech 2nd Year st
 
 ---
 
+## 📚 **Education**
+
+### **B.Tech in Computer Science-Artificial Intelligence and Machine Learning**
+*Techno Main Salt Lake* | *2023 - Present*
+
+---
+
 <!-- ## 🛠️ **Skills & Interests** -->
 
 <!-- ### **Programming Languages**
@@ -33,7 +40,7 @@ Hey there! I'm **Amitava Datta**, a driven and enthusiastic **B.Tech 2nd Year st
 - **Machine Learning** ⚙
 - **Artificial Intelligence** 🤖 -->
 
-<div style="display: flex; flex-wrap: wrap; gap: 16px; align-items: center; justify-content: center; padding: 10px; background-color: #2e2e2e; border-radius: 10px;">
+<div style="display: flex; flex-wrap: wrap; gap: 16px; align-items: center; justify-content: center; padding: 20px; border-radius: 10px; background: linear-gradient(135deg, #1f1f1f, #4b0082, #8a2be2, #da70d6);">
   <img src="https://img.shields.io/badge/Next.js-242424?logo=nextdotjs&logoColor=00DC82&style=for-the-badge" height="40" alt="nextjs logo" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square" height="40" alt="typescript logo" />
   <img src="https://img.shields.io/badge/JavaScript-F7E018?logo=javascript&logoColor=black&style=flat-square" height="40" alt="javascript logo" />
@@ -74,16 +81,13 @@ Hey there! I'm **Amitava Datta**, a driven and enthusiastic **B.Tech 2nd Year st
 - **Robotics** 🤖
 - **Cybersecurity** 🔐 -->
 
-## 📚 **Education**
 
-### **B.Tech in Computer Science-Artificial Intelligence and Machine Learning**
-*Techno Main Salt Lake* | *2023 - Present*
 
 ## 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AmitavaDatta2004&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-
+## 📊 GitHub Contribution Graph:
 [![Amitava's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AmitavaDatta2004&bg_color=000000&color=ffbb00&line=ff0000&point=10f000&area=true&hide_border=false)]()
 
 ## 🎨 **Hobbies & Interests**
@@ -135,7 +139,3 @@ Feel free to reach out to me at **dattaamitava2004@gmail.com** for collaboration
 
 ---
 
-<!---
-AmitavaDatta2004/AmitavaDatta2004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
