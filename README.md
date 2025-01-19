@@ -98,6 +98,8 @@ Hey there! I'm **Amitava Datta**, a driven and enthusiastic **B.Tech 2nd Year st
 ## 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AmitavaDatta2004&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<a><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AmitavaDatta2004&theme=merko&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="180em" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmitavaDatta2004&theme=merko&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="180em" /><a/>
 
 ## 📊 GitHub Contribution Graph:
 [![Amitava's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AmitavaDatta2004&bg_color=000000&color=ffbb00&line=ff0000&point=10f000&area=true&hide_border=false)]()
