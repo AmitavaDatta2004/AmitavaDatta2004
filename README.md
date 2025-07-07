@@ -1,99 +1,84 @@
-<!--- 👋 Hi, I’m @AmitavaDatta2004
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... --->
+<!-- Banner & Avatar -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=F7971E&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I%E2%80%99m+Amitava+Datta!;Welcome+to+my+GitHub+Profile!;B.Tech+Student+%7C+Tech+Enthusiast+%7C+Open+Source+Lover" alt="Typing SVG" />
+</p>
 
-<img src="https://raw.githubusercontent.com/AmitavaDatta2004/AmitavaDatta2004/output/snake.svg" alt="Snake animation" />
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/102982099?v=4" width="150" style="border-radius: 50%; box-shadow: 0 4px 20px #00000055;" alt="Amitava Datta Avatar" />
+</p>
 
+<p align="center">
+  <a href="https://github.com/AmitavaDatta2004" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="40" alt="GitHub Profile" />
+  </a>
+</p>
 
-# **Amitava Datta** 🌟
-*B.Tech 2nd Year Student of CSE-AIML at Techno Main Salt Lake*
+<!-- Profile Views & Visitor Map -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AmitavaDatta2004&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <br>
+  <img src="https://profile-counter.glitch.me/AmitavaDatta2004/count.svg" alt="Visitor Count" />
+  <br>
+  <img src="https://api.visitorbadge.io/api/visitors?path=AmitavaDatta2004&label=VISITORS&countColor=%23263759&style=flat" alt="Visitor Badge" />
+  <br>
+  <img src="https://geolocation-db.com/badge.svg" alt="Visitor Map" />
+</p>
+
+<!-- Fun Quote -->
+<blockquote align="center">
+  <b>"Code is like humor. When you have to explain it, it’s bad."</b> <br> <i>– Cory House</i>
+</blockquote>
 
 ---
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=AmitavaDatta2004&label=Profile%20views&color=0e75b6&style=flat" alt="AmitavaDatta2004" /> </p> -->
-<img src="https://widgetbite.com/stats/AmitavaDatta2004" alt="watching_count" />
 
-## 👋 **Introduction**
-
-Hey there! I'm **Amitava Datta**, a driven and enthusiastic **B.Tech 2nd Year student** at **Techno Main Salt Lake**. My passion lies in exploring the vast world of technology and engineering, constantly striving to innovate and learn.
-
----
-
-## 📚 **Education**
-
-### **B.Tech in Computer Science-Artificial Intelligence and Machine Learning**
-*Techno Main Salt Lake* | *2023 - Present*
+<!-- Quick Links -->
+<p align="center">
+  <a href="#introduction">🧑‍💻 Introduction</a> •
+  <a href="#education">🎓 Education</a> •
+  <a href="#technologies--tools">🛠️ Technologies</a> •
+  <a href="#projects">🚀 Projects</a> •
+  <a href="#achievements-and-badges">🏅 Achievements</a> •
+  <a href="#contact">📧 Contact</a>
+</p>
 
 ---
 
-<!-- ## 🛠️ **Skills & Interests** -->
+# <span style="color:#F7971E">Amitava Datta</span> <img src="https://img.shields.io/badge/B.Tech%20CSE--AIML-4B0082?style=flat-square&logo=graduation-cap&logoColor=white" height="28" />
+<p align="center"><b>B.Tech 2nd Year Student of CSE-AIML at Techno Main Salt Lake</b></p>
 
-<!-- ### **Programming Languages**
-- **Python** 🐍
-- **Java** 💻
-- **JavaScript** ☕
-- **C++** 🔧
-- **C** 🖥 -->
+---
 
-## 🛠️**Technologies & Tools**
-<!-- - **Web Development** 🌐
-- **App Development** 📱
-- **Data Structures & Algorithms** 📊
-- **Machine Learning** ⚙
-- **Artificial Intelligence** 🤖 -->
+<!-- Animated Badges -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=F7971E&center=true&vCenter=true&width=600&lines=Open+Source+%F0%9F%92%BB;Web+Dev+%F0%9F%8C%90;AI+%26+ML+%F0%9F%A4%96;Always+Learning+%F0%9F%92%AF" alt="Animated Badges" />
+</p>
 
-<div style="display: flex; flex-wrap: wrap; gap: 16px; align-items: center; justify-content: center; padding: 20px; border-radius: 10px; background: linear-gradient(135deg, #1f1f1f, #4b0082, #8a2be2, #da70d6);">
-  <!-- Existing icons -->
-  <img src="https://img.shields.io/badge/Next.js-242424?logo=nextdotjs&logoColor=00DC82&style=for-the-badge" height="40" alt="nextjs logo" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square" height="40" alt="typescript logo" />
-  <img src="https://img.shields.io/badge/JavaScript-F7E018?logo=javascript&logoColor=black&style=flat-square" height="40" alt="javascript logo" />
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=plastic" height="40" alt="react logo" />
-  <img src="https://img.shields.io/badge/Appwrite-F02E65?logo=appwrite&logoColor=white&style=plastic" height="40" alt="appwrite logo" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat-square" height="40" alt="bootstrap logo" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black&style=for-the-badge" height="40" alt="c logo" />
-  <img src="https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=black&style=flat-square" height="40" alt="canva logo" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=plastic" height="40" alt="css3 logo" />
-  <img src="https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=white&style=for-the-badge" height="40" alt="debian logo" />
-  <img src="https://img.shields.io/badge/Deno-000000?logo=deno&logoColor=white&style=flat-square" height="40" alt="denojs logo" />
-  <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=plastic" height="40" alt="django logo" />
-  <img src="https://img.shields.io/badge/ESLint-4B32C3?logo=eslint&logoColor=white&style=for-the-badge" height="40" alt="eslint logo" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge" height="40" alt="firebase logo" />
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=plastic" height="40" alt="nodejs logo" />
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=plastic" height="40" alt="python logo" />
-  <img src="https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white&style=for-the-badge" height="40" alt="rust logo" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" height="40" alt="linux logo" />
-  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwindcss&logoColor=black&style=for-the-badge" height="40" alt="tailwindcss logo" />
-  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=flat-square" height="40" alt="vscode logo" />
-  
-  <!-- 20 New icons -->
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white&style=plastic" height="40" alt="postgresql logo" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="40" alt="mysql logo" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white&style=flat-square" height="40" alt="redis logo" />
-  <img src="https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white&style=plastic" height="40" alt="graphql logo" />
-  <img src="https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white&style=for-the-badge" height="40" alt="sass logo" />
-  <img src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white&style=plastic" height="40" alt="redux logo" />
-  <img src="https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=white&style=for-the-badge" height="40" alt="gitlab logo" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=plastic" height="40" alt="docker logo" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge" height="40" alt="kubernetes logo" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=flat-square" height="40" alt="flutter logo" />
-  <img src="https://img.shields.io/badge/Android Studio-3DDC84?logo=androidstudio&logoColor=white&style=plastic" height="40" alt="android studio logo" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" height="40" alt="figma logo" />
-  <img src="https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=white&style=plastic" height="40" alt="heroku logo" />
-  <img src="https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=white&style=flat-square" height="40" alt="blender logo" />
-  <img src="https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white&style=for-the-badge" height="40" alt="unity logo" />
-  <img src="https://img.shields.io/badge/Adobe XD-FF61F6?logo=adobexd&logoColor=white&style=plastic" height="40" alt="adobe xd logo" />
-  <img src="https://img.shields.io/badge/Apache-D22128?logo=apache&logoColor=white&style=for-the-badge" height="40" alt="apache logo" />
-  <img src="https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white&style=plastic" height="40" alt="nginx logo" />
-  <img src="https://img.shields.io/badge/Raspberry Pi-A22846?logo=raspberrypi&logoColor=white&style=for-the-badge" height="40" alt="raspberry pi logo" />
-  <img src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white&style=plastic" height="40" alt="jira logo" />
-</div>
+---
 
-<!-- ### **Other Interests**
-- **Robotics** 🤖
-- **Cybersecurity** 🔐 -->
+## <a id="introduction"></a>👋 <span style="color:#F7971E">Introduction</span>
 
+Hey there! I'm <b>Amitava Datta</b>, a driven and enthusiastic <b>B.Tech 2nd Year student</b> at <b>Techno Main Salt Lake</b>. My passion lies in exploring the vast world of technology and engineering, constantly striving to innovate and learn.
 
+---
+
+## <a id="education"></a>📚 <span style="color:#F7971E">Education</span>
+
+### <img src="https://img.shields.io/badge/B.Tech-Computer%20Science%20(AIML)-4B0082?style=flat-square&logo=graduation-cap&logoColor=white" height="24" />
+*Techno Main Salt Lake* | <b>2023 - Present</b>
+
+---
+
+## <a id="technologies--tools"></a>🛠️ <span style="color:#F7971E">Technologies & Tools</span>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,react,nextjs,nodejs,tailwind,bootstrap,css,html,redux,deno,django,firebase,postgres,mysql,redis,graphql,git,github,gitlab,docker,kubernetes,linux,nginx,heroku,flutter,androidstudio,figma,canva,blender,unity,xd,apache,raspberrypi,jira,vscode,eslint" height="60" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=1000&color=F7971E&center=true&vCenter=true&width=600&lines=Web+Development;App+Development;AI+%26+ML;Cloud+%26+DevOps;UI%2FUX+Design;Open+Source+%F0%9F%92%BB" alt="Animated Tech Stack" />
+</p>
+
+---
 
 ## 📊 GitHub Stats:
 
@@ -126,6 +111,19 @@ Hey there! I'm **Amitava Datta**, a driven and enthusiastic **B.Tech 2nd Year st
 [![An image of @amitavadatta2004's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/amitavadatta2004)](https://holopin.io/@amitavadatta2004)
 ---
 
+## 📌 <span style="color:#F7971E">Pinned Repositories</span>
+
+<p align="center">
+  <a href="https://github.com/AmitavaDatta2004/Snippet_Sphere" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmitavaDatta2004&repo=Snippet_Sphere&theme=merko" height="140" />
+  </a>
+  <a href="https://github.com/AmitavaDatta2004/Code_X_Change" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmitavaDatta2004&repo=Code_X_Change&theme=merko" height="140" />
+  </a>
+</p>
+
+---
+
 ## 🌐 **Online Presence**
 
 - **[LinkedIn](https://www.linkedin.com/in/amitava-datta-301920292/)** | Connect with me professionally.
@@ -149,7 +147,28 @@ Feel free to reach out to me at **dattaamitava2004@gmail.com** for collaboration
 
 ---
 
-*© 2024 Amitava Datta. All rights reserved.*
+## 🏆 <span style="color:#F7971E">GitHub Trophies</span>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AmitavaDatta2004&theme=algolia&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+</p>
 
 ---
+
+## 🔥 <span style="color:#F7971E">GitHub Streak</span>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmitavaDatta2004&theme=merko&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🌟 <span style="color:#F7971E">Support & Connect</span>
+<p align="center">
+  <a href="https://www.buymeacoffee.com/amitavadatta2004" target="_blank"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" height="40" /></a>
+  <a href="mailto:dattaamitava2004@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40" /></a>
+  <a href="https://github.com/AmitavaDatta2004?tab=followers" target="_blank"><img src="https://img.shields.io/github/followers/AmitavaDatta2004?label=Follow&style=for-the-badge" height="40" /></a>
+</p>
+
+---
+
+<p align="center"><i>© 2024 Amitava Datta. All rights reserved.</i></p>
 
