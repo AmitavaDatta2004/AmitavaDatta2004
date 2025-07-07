@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/102982099?v=4" width="150" style="border-radius: 50%; box-shadow: 0 4px 20px #00000055;" alt="Amitava Datta Avatar" />
+  <img src="https://avatars.githubusercontent.com/u/145762757?v=4" width="150" alt="Amitava Datta Avatar" />
 </p>
 
 <p align="center">
@@ -16,12 +16,11 @@
 <!-- Profile Views & Visitor Map -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AmitavaDatta2004&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-  <br>
+  <!-- <br>
   <img src="https://profile-counter.glitch.me/AmitavaDatta2004/count.svg" alt="Visitor Count" />
   <br>
   <img src="https://api.visitorbadge.io/api/visitors?path=AmitavaDatta2004&label=VISITORS&countColor=%23263759&style=flat" alt="Visitor Badge" />
-  <br>
-  <img src="https://geolocation-db.com/badge.svg" alt="Visitor Map" />
+  <br> -->
 </p>
 
 <!-- Fun Quote -->
@@ -171,4 +170,5 @@ Feel free to reach out to me at **dattaamitava2004@gmail.com** for collaboration
 ---
 
 <p align="center"><i>© 2024 Amitava Datta. All rights reserved.</i></p>
+
 
