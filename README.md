@@ -70,7 +70,7 @@ Hey there! I'm <b>Amitava Datta</b>, a driven and enthusiastic <b>B.Tech 2nd Yea
 ## <a id="technologies--tools"></a>🛠️ <span style="color:#F7971E">Technologies & Tools</span>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,react,nextjs,nodejs,tailwind,bootstrap,css,html,redux,deno,django,firebase,postgres,mysql,redis,graphql,git,github,gitlab,docker,kubernetes,linux,nginx,heroku,flutter,androidstudio,figma,canva,blender,unity,xd,apache,raspberrypi,jira,vscode,eslint" height="60" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,react,nextjs,nodejs,tailwind,bootstrap,css,html,redux,deno,django,firebase,postgres,mysql,redis,graphql,git,github,gitlab,docker,kubernetes,linux,nginx,heroku,flutter,androidstudio,figma,canva,blender,unity,xd,apache,raspberrypi,jira,vscode,eslint" height="90" />
 </p>
 
 <p align="center">
