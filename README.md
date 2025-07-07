@@ -1,37 +1,38 @@
-<!-- Banner & Avatar -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=F7971E&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I%E2%80%99m+Amitava+Datta!;Welcome+to+my+GitHub+Profile!;B.Tech+Student+%7C+Tech+Enthusiast+%7C+Open+Source+Lover" alt="Typing SVG" />
-</p>
 
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/145762757?v=4" width="150" alt="Amitava Datta Avatar" />
-</p>
-
-<p align="center">
+<!-- Gradient Banner & Avatar -->
+<div align="center" style="background: linear-gradient(90deg, #0f2027 0%, #2c5364 100%); padding: 30px 0 10px 0; border-radius: 20px; box-shadow: 0 4px 24px #00000033;">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&pause=1000&color=F7971E&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I%E2%80%99m+Amitava+Datta!;Welcome+to+my+GitHub+Profile!;B.Tech+Student+%7C+Tech+Enthusiast+%7C+Open+Source+Lover" alt="Typing SVG" />
+  <br><br>
+  <img src="https://avatars.githubusercontent.com/u/145762757?v=4" width="170" style="border-radius: 50%; border: 4px solid #F7971E; box-shadow: 0 2px 16px #F7971E55;" alt="Amitava Datta Avatar" />
+  <br><br>
   <a href="https://github.com/AmitavaDatta2004" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="40" alt="GitHub Profile" />
   </a>
-</p>
+</div>
+
+
+
 
 <!-- Profile Views & Visitor Map -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AmitavaDatta2004&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-  <!-- <br>
-  <img src="https://profile-counter.glitch.me/AmitavaDatta2004/count.svg" alt="Visitor Count" />
-  <br>
-  <img src="https://api.visitorbadge.io/api/visitors?path=AmitavaDatta2004&label=VISITORS&countColor=%23263759&style=flat" alt="Visitor Badge" />
-  <br> -->
+  <img src="https://komarev.com/ghpvc/?username=AmitavaDatta2004&label=Profile+Views&color=F7971E&style=for-the-badge" alt="Profile Views" />
 </p>
 
-<!-- Fun Quote -->
-<blockquote align="center">
+
+<!-- Fun Quote with Highlight -->
+<blockquote align="center" style="background: #2c5364; color: #F7971E; border-radius: 12px; padding: 18px; font-size: 1.2em; box-shadow: 0 2px 12px #00000022;">
   <b>"Code is like humor. When you have to explain it, it’s bad."</b> <br> <i>– Cory House</i>
 </blockquote>
 
 ---
 
-<!-- Quick Links -->
-<p align="center">
+<img src="https://raw.githubusercontent.com/AmitavaDatta2004/AmitavaDatta2004/output/snake.svg" alt="Snake animation" />
+
+---
+
+
+<!-- Quick Links with Gradient -->
+<p align="center" style="background: linear-gradient(90deg, #F7971E33 0%, #2c5364 100%); border-radius: 10px; padding: 10px 0; font-size: 1.1em;">
   <a href="#introduction">🧑‍💻 Introduction</a> •
   <a href="#education">🎓 Education</a> •
   <a href="#technologies--tools">🛠️ Technologies</a> •
@@ -42,14 +43,19 @@
 
 ---
 
-# <span style="color:#F7971E">Amitava Datta</span> <img src="https://img.shields.io/badge/B.Tech%20CSE--AIML-4B0082?style=flat-square&logo=graduation-cap&logoColor=white" height="28" />
-<p align="center"><b>B.Tech 2nd Year Student of CSE-AIML at Techno Main Salt Lake</b></p>
+
+<h1 align="center">
+  <span style="color:#F7971E; font-size:2.5em;">Amitava Datta</span>
+  <img src="https://img.shields.io/badge/B.Tech%20CSE--AIML-4B0082?style=flat-square&logo=graduation-cap&logoColor=white" height="32" />
+</h1>
+<p align="center" style="font-size:1.2em;"><b>B.Tech 2nd Year Student of CSE-AIML at Techno Main Salt Lake</b></p>
 
 ---
 
+
 <!-- Animated Badges -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=F7971E&center=true&vCenter=true&width=600&lines=Open+Source+%F0%9F%92%BB;Web+Dev+%F0%9F%8C%90;AI+%26+ML+%F0%9F%A4%96;Always+Learning+%F0%9F%92%AF" alt="Animated Badges" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=F7971E&center=true&vCenter=true&width=700&lines=Open+Source+%F0%9F%92%BB;Web+Dev+%F0%9F%8C%90;AI+%26+ML+%F0%9F%A4%96;Always+Learning+%F0%9F%92%AF" alt="Animated Badges" />
 </p>
 
 ---
@@ -67,33 +73,44 @@ Hey there! I'm <b>Amitava Datta</b>, a driven and enthusiastic <b>B.Tech 2nd Yea
 
 ---
 
-## <a id="technologies--tools"></a>🛠️ <span style="color:#F7971E">Technologies & Tools</span>
+
+## <a id="technologies--tools"></a>🛠️ <span style="color:#F7971E; font-size:1.3em;">Technologies & Tools</span>
+
+<div align="center" style="background: linear-gradient(90deg, #232526 0%, #F7971E33 100%); border-radius: 16px; padding: 18px 0; margin-bottom: 10px; box-shadow: 0 2px 12px #00000022;">
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,react,nextjs,nodejs,tailwind,bootstrap,css,html,redux,deno,django,firebase,postgres,mysql,redis,graphql,git,github,gitlab,docker,kubernetes,linux,nginx,heroku,flutter,androidstudio,figma,canva,blender,unity,xd,apache,raspberrypi,jira,vscode,eslint" height="100" />
+</div>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,react,nextjs,nodejs,tailwind,bootstrap,css,html,redux,deno,django,firebase,postgres,mysql,redis,graphql,git,github,gitlab,docker,kubernetes,linux,nginx,heroku,flutter,androidstudio,figma,canva,blender,unity,xd,apache,raspberrypi,jira,vscode,eslint" height="90" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=1000&color=F7971E&center=true&vCenter=true&width=600&lines=Web+Development;App+Development;AI+%26+ML;Cloud+%26+DevOps;UI%2FUX+Design;Open+Source+%F0%9F%92%BB" alt="Animated Tech Stack" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=F7971E&center=true&vCenter=true&width=600&lines=Web+Development;App+Development;AI+%26+ML;Cloud+%26+DevOps;UI%2FUX+Design;Open+Source+%F0%9F%92%BB" alt="Animated Tech Stack" />
 </p>
 
 ---
 
 ## 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AmitavaDatta2004&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-<a><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AmitavaDatta2004&theme=merko&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="180em" />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmitavaDatta2004&theme=merko&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="180em" /><a/>
+
+<div align="center" style="background: linear-gradient(90deg, #232526 0%, #F7971E33 100%); border-radius: 16px; padding: 18px 0; margin-bottom: 10px; box-shadow: 0 2px 12px #00000022;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmitavaDatta2004&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="180em" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AmitavaDatta2004&theme=merko&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="180em" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmitavaDatta2004&theme=merko&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="180em" />
+</div>
+
 
 ## 📊 GitHub Contribution Graph:
-[![Amitava's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AmitavaDatta2004&bg_color=000000&color=ffbb00&line=ff0000&point=10f000&area=true&hide_border=false)]()
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AmitavaDatta2004&bg_color=232526&color=F7971E&line=ff0000&point=10f000&area=true&hide_border=false" alt="Amitava's github activity graph" />
+</p>
+
 
 ## 🎨 **Hobbies & Interests**
-
-- **Reading Tech Blogs** 📖
-- **Playing Chess** ♟️
-- **Traveling and Exploring** ✈️
-- **Photography** 📸
+<div align="center" style="background: linear-gradient(90deg, #232526 0%, #F7971E33 100%); border-radius: 16px; padding: 18px 0; margin-bottom: 10px; box-shadow: 0 2px 12px #00000022; width: 70%;">
+  <ul style="list-style: none; padding: 0; font-size: 1.1em;">
+    <li>📖 <b>Reading Tech Blogs</b></li>
+    <li>♟️ <b>Playing Chess</b></li>
+    <li>✈️ <b>Traveling and Exploring</b></li>
+    <li>📸 <b>Photography</b></li>
+  </ul>
+</div>
 
 ---
 
