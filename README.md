@@ -123,33 +123,10 @@ Hey there! I'm <b>Amitava Datta</b>, a driven and enthusiastic <b>B.Tech 2nd Yea
 
 ---
 
-<!-- 🌍 Dynamic Visitor Stats -->
-<div align="center">
-  <img alt="Visitor Stats" src="https://widgetbite.com/stats/AmitavaDatta2004" />
-</div>
+## 🌐 **Online Presence**
 
----
-
-<!-- 🗓️ Dynamic GitHub Calendar -->
-<p align="center">
-  <img src="https://github.com/AmitavaDatta2004/AmitavaDatta2004/raw/output/github-contribution-grid-snake.svg" alt="3D Contribution Snake" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-calendar.vercel.app/api?username=AmitavaDatta2004&color=F7971E&background=00000000&border=4B0082" alt="GitHub Calendar" />
-</p>
-
----
-
-<!-- 🚀 Stylish Social Section -->
-<h2 align="center">🌐 Connect with Me</h2>
-<p align="center">
-  <a href="https://www.instagram.com/amitava_2004/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="40" /></a>
-  <a href="https://www.facebook.com/profile.php?id=100072284777063" target="_blank"><img src="https://skillicons.dev/icons?i=facebook" height="40" /></a>
-  <a href="https://x.com/Amitava2004" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" height="40" /></a>
-  <a href="https://www.linkedin.com/in/amitava-datta-301920292/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
-  <a href="mailto:dattaamitava2004@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" height="40" /></a>
-</p>
+- **[LinkedIn](https://www.linkedin.com/in/amitava-datta-301920292/)** | Connect with me professionally.
+- **[Twitter](https://x.com/Amitava2004)** | Follow my thoughts and updates on tech.
 
 ---
 
